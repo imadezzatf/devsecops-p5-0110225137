@@ -2,4 +2,4 @@ import subprocess
 
 
 def backup_file(filename):
-    subprocess.call("cp " + filename + " backup/", shell=True)
+    subprocess.run(["cp", filename, "backup/"], check=True)
