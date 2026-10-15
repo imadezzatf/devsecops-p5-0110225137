@@ -1,6 +1,6 @@
 # Task Manager CLI
 
-![DevSecOps Pipeline](https://github.com/USERNAMEKAMU/devsecops-p5-0110225137/actions/workflows/devsecops.yml/badge.svg)
+![DevSecOps Pipeline](https://github.com/imadezzatf/devsecops-p5-0110225137/actions/workflows/devsecops.yml/badge.svg)
 
 ## 1. Nama Aplikasi dan Fungsinya
 
@@ -22,7 +22,7 @@ Aplikasi ini dibuat untuk tugas mata kuliah DevSecOps Pertemuan 5
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/USERNAMEKAMU/devsecops-p5-0110225137.git
+git clone https://github.com/imadezzatf/devsecops-p5-0110225137.git
 cd devsecops-p5-0110225137
 
 # 2. Buat virtual environment dan install dependencies
